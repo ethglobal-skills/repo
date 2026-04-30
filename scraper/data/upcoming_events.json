@@ -1,0 +1,58 @@
+{
+  "events": [
+    {
+      "name": "Open Agents",
+      "url": "https://ethglobal.com/events/openagents",
+      "logo_url": "https://ethglobal.b-cdn.net/events/openagents/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2026-04-24",
+      "end_date": "2026-05-06"
+    },
+    {
+      "name": "ETHGlobal New York 2026",
+      "url": "https://ethglobal.com/events/newyork2026",
+      "logo_url": "https://ethglobal.b-cdn.net/events/newyork2026/square-logo/default.png",
+      "city": "New York City",
+      "country": "United States",
+      "start_date": "2026-06-12",
+      "end_date": "2026-06-14"
+    },
+    {
+      "name": "ETHGlobal Lisbon 2026",
+      "url": "https://ethglobal.com/events/lisbon2026",
+      "logo_url": "https://ethglobal.b-cdn.net/events/lisbon2026/square-logo/default.png",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "start_date": "2026-07-24",
+      "end_date": "2026-07-26"
+    },
+    {
+      "name": "ETHOnline 2026",
+      "url": "https://ethglobal.com/events/ethonline2026",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethonline2026/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-16"
+    },
+    {
+      "name": "ETHGlobal Tokyo 2026",
+      "url": "https://ethglobal.com/events/tokyo2026",
+      "logo_url": "https://ethglobal.b-cdn.net/events/tokyo2026/square-logo/default.png",
+      "city": "Tokyo",
+      "country": "Japan",
+      "start_date": "2026-09-25",
+      "end_date": "2026-09-27"
+    },
+    {
+      "name": "ETHGlobal Mumbai",
+      "url": "https://ethglobal.com/events/mumbai",
+      "logo_url": "https://ethglobal.b-cdn.net/events/mumbai/square-logo/default.png",
+      "city": "Mumbai",
+      "country": "India",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-08"
+    }
+  ]
+}
