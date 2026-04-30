@@ -1,0 +1,688 @@
+{
+  "events": [
+    {
+      "name": "ETHGlobal Cannes 2026",
+      "url": "https://ethglobal.com/events/cannes2026",
+      "logo_url": "https://ethglobal.b-cdn.net/events/cannes2026/square-logo/default.png",
+      "city": "Cannes",
+      "country": "France",
+      "start_date": "2026-04-03",
+      "end_date": "2026-04-05"
+    },
+    {
+      "name": "HackMoney 2026",
+      "url": "https://ethglobal.com/events/hackmoney2026",
+      "logo_url": "https://ethglobal.b-cdn.net/events/hackmoney2026/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2026-01-30",
+      "end_date": "2026-02-11"
+    },
+    {
+      "name": "ETHGlobal Buenos Aires",
+      "url": "https://ethglobal.com/events/buenosaires",
+      "logo_url": "https://ethglobal.b-cdn.net/events/buenosaires/square-logo/default.png",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "start_date": "2025-11-21",
+      "end_date": "2025-11-23"
+    },
+    {
+      "name": "ETHOnline 2025",
+      "url": "https://ethglobal.com/events/ethonline2025",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethonline2025/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2025-10-10",
+      "end_date": "2025-10-31"
+    },
+    {
+      "name": "ETHGlobal New Delhi",
+      "url": "https://ethglobal.com/events/newdelhi",
+      "logo_url": "https://ethglobal.b-cdn.net/events/newdelhi/square-logo/default.png",
+      "city": "New Delhi",
+      "country": "India",
+      "start_date": "2025-09-26",
+      "end_date": "2025-09-28"
+    },
+    {
+      "name": "ETHGlobal New York 2025",
+      "url": "https://ethglobal.com/events/newyork2025",
+      "logo_url": "https://ethglobal.b-cdn.net/events/newyork2025/square-logo/default.png",
+      "city": "New York City",
+      "country": "United States",
+      "start_date": "2025-08-15",
+      "end_date": "2025-08-17"
+    },
+    {
+      "name": "Unite Defi",
+      "url": "https://ethglobal.com/events/unite",
+      "logo_url": "https://ethglobal.b-cdn.net/events/unite/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2025-07-25",
+      "end_date": "2025-08-08"
+    },
+    {
+      "name": "ETHGlobal Cannes",
+      "url": "https://ethglobal.com/events/cannes",
+      "logo_url": "https://ethglobal.b-cdn.net/events/cannes/square-logo/default.png",
+      "city": "Cannes",
+      "country": "France",
+      "start_date": "2025-07-04",
+      "end_date": "2025-07-06"
+    },
+    {
+      "name": "ETHGlobal Prague",
+      "url": "https://ethglobal.com/events/prague",
+      "logo_url": "https://ethglobal.b-cdn.net/events/prague/square-logo/default.png",
+      "city": "Prague",
+      "country": "Czech Republic",
+      "start_date": "2025-05-30",
+      "end_date": "2025-06-01"
+    },
+    {
+      "name": "ETHGlobal Taipei",
+      "url": "https://ethglobal.com/events/taipei",
+      "logo_url": "https://ethglobal.b-cdn.net/events/taipei/square-logo/default.png",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "start_date": "2025-04-04",
+      "end_date": "2025-04-06"
+    },
+    {
+      "name": "ETHGlobal Trifecta",
+      "url": "https://ethglobal.com/events/trifecta",
+      "logo_url": "https://ethglobal.b-cdn.net/events/trifecta/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2025-03-20",
+      "end_date": "2025-03-26"
+    },
+    {
+      "name": "Agentic Ethereum",
+      "url": "https://ethglobal.com/events/agents",
+      "logo_url": "https://ethglobal.b-cdn.net/events/agents/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2025-01-31",
+      "end_date": "2025-02-14"
+    },
+    {
+      "name": "ETHGlobal Bangkok",
+      "url": "https://ethglobal.com/events/bangkok",
+      "logo_url": "https://ethglobal.b-cdn.net/events/bangkok/square-logo/default.png",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "start_date": "2024-11-15",
+      "end_date": "2024-11-17"
+    },
+    {
+      "name": "ETHGlobal San Francisco",
+      "url": "https://ethglobal.com/events/sanfrancisco2024",
+      "logo_url": "https://ethglobal.b-cdn.net/events/sanfrancisco2024/square-logo/default.png",
+      "city": "San Francisco",
+      "country": "United States",
+      "start_date": "2024-10-18",
+      "end_date": "2024-10-20"
+    },
+    {
+      "name": "ETHGlobal Singapore",
+      "url": "https://ethglobal.com/events/singapore2024",
+      "logo_url": "https://ethglobal.b-cdn.net/events/singapore2024/square-logo/default.png",
+      "city": "Singapore",
+      "country": "Singapore",
+      "start_date": "2024-09-20",
+      "end_date": "2024-09-22"
+    },
+    {
+      "name": "ETHOnline 2024",
+      "url": "https://ethglobal.com/events/ethonline2024",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethonline2024/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2024-08-23",
+      "end_date": "2024-09-13"
+    },
+    {
+      "name": "Superhack 2024",
+      "url": "https://ethglobal.com/events/superhack2024",
+      "logo_url": "https://ethglobal.b-cdn.net/events/superhack2024/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2024-08-02",
+      "end_date": "2024-08-16"
+    },
+    {
+      "name": "ETHGlobal Brussels",
+      "url": "https://ethglobal.com/events/brussels",
+      "logo_url": "https://ethglobal.b-cdn.net/events/brussels/square-logo/default.png",
+      "city": "Brussels",
+      "country": "Belgium",
+      "start_date": "2024-07-12",
+      "end_date": "2024-07-14"
+    },
+    {
+      "name": "StarkHack",
+      "url": "https://ethglobal.com/events/starkhack",
+      "logo_url": "https://ethglobal.b-cdn.net/events/starkhack/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2024-06-13",
+      "end_date": "2024-06-26"
+    },
+    {
+      "name": "HackFS 2024",
+      "url": "https://ethglobal.com/events/hackfs2024",
+      "logo_url": "https://ethglobal.b-cdn.net/events/hackfs2024/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2024-05-17",
+      "end_date": "2024-06-07"
+    },
+    {
+      "name": "ETHGlobal Sydney",
+      "url": "https://ethglobal.com/events/sydney",
+      "logo_url": "https://ethglobal.b-cdn.net/events/sydney/square-logo/default.png",
+      "city": "Sydney",
+      "country": "Australia",
+      "start_date": "2024-05-03",
+      "end_date": "2024-05-05"
+    },
+    {
+      "name": "Scaling Ethereum 2024",
+      "url": "https://ethglobal.com/events/scaling2024",
+      "logo_url": "https://ethglobal.b-cdn.net/events/scaling2024/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2024-04-05",
+      "end_date": "2024-04-26"
+    },
+    {
+      "name": "Frameworks",
+      "url": "https://ethglobal.com/events/frameworks",
+      "logo_url": "https://ethglobal.b-cdn.net/events/frameworks/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2024-03-22",
+      "end_date": "2024-03-24"
+    },
+    {
+      "name": "ETHGlobal London",
+      "url": "https://ethglobal.com/events/london2024",
+      "logo_url": "https://ethglobal.b-cdn.net/events/london2024/square-logo/default.png",
+      "city": "London",
+      "country": "United Kingdom",
+      "start_date": "2024-03-15",
+      "end_date": "2024-03-17"
+    },
+    {
+      "name": "Circuit Breaker",
+      "url": "https://ethglobal.com/events/circuitbreaker",
+      "logo_url": "https://ethglobal.b-cdn.net/events/circuitbreaker/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2024-02-02",
+      "end_date": "2024-02-21"
+    },
+    {
+      "name": "LFGHO",
+      "url": "https://ethglobal.com/events/lfgho",
+      "logo_url": "https://ethglobal.b-cdn.net/events/lfgho/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2024-01-12",
+      "end_date": "2024-01-24"
+    },
+    {
+      "name": "ETHIndia 2023",
+      "url": "https://ethindia.co",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethindia2023/square-logo/default.png",
+      "city": "Bengaluru",
+      "country": "India",
+      "start_date": "2023-12-08",
+      "end_date": "2023-12-10"
+    },
+    {
+      "name": "ETHGlobal Istanbul",
+      "url": "https://ethglobal.com/events/istanbul",
+      "logo_url": "https://ethglobal.b-cdn.net/events/istanbul/square-logo/default.png",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "start_date": "2023-11-17",
+      "end_date": "2023-11-19"
+    },
+    {
+      "name": "ETHOnline 2023",
+      "url": "https://ethglobal.com/events/ethonline2023",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethonline2023/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2023-10-06",
+      "end_date": "2023-10-27"
+    },
+    {
+      "name": "ETHGlobal New York",
+      "url": "https://ethglobal.com/events/newyork2023",
+      "logo_url": "https://ethglobal.b-cdn.net/events/newyork2023/square-logo/default.png",
+      "city": "New York City",
+      "country": "United States",
+      "start_date": "2023-09-22",
+      "end_date": "2023-09-24"
+    },
+    {
+      "name": "Superhack",
+      "url": "https://ethglobal.com/events/superhack",
+      "logo_url": "https://ethglobal.b-cdn.net/events/superhack/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2023-08-04",
+      "end_date": "2023-08-18"
+    },
+    {
+      "name": "ETHGlobal Paris",
+      "url": "https://ethglobal.com/events/paris2023",
+      "logo_url": "https://ethglobal.b-cdn.net/events/paris2023/square-logo/default.png",
+      "city": "Paris",
+      "country": "France",
+      "start_date": "2023-07-21",
+      "end_date": "2023-07-23"
+    },
+    {
+      "name": "ETHGlobal Waterloo",
+      "url": "https://ethglobal.com/events/waterloo2023",
+      "logo_url": "https://ethglobal.b-cdn.net/events/waterloo2023/square-logo/default.png",
+      "city": "Waterloo",
+      "country": "Canada",
+      "start_date": "2023-06-23",
+      "end_date": "2023-06-25"
+    },
+    {
+      "name": "HackFS 2023",
+      "url": "https://ethglobal.com/events/hackfs2023",
+      "logo_url": "https://ethglobal.b-cdn.net/events/hackfs2023/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2023-06-02",
+      "end_date": "2023-06-21"
+    },
+    {
+      "name": "Autonomous Worlds",
+      "url": "https://ethglobal.com/events/autonomous",
+      "logo_url": "https://ethglobal.b-cdn.net/events/autonomous/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2023-05-18",
+      "end_date": "2023-05-26"
+    },
+    {
+      "name": "ETHGlobal Lisbon",
+      "url": "https://ethglobal.com/events/lisbon",
+      "logo_url": "https://ethglobal.b-cdn.net/events/lisbon/square-logo/default.png",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "start_date": "2023-05-12",
+      "end_date": "2023-05-14"
+    },
+    {
+      "name": "ETHGlobal Tokyo",
+      "url": "https://ethglobal.com/events/tokyo",
+      "logo_url": "https://ethglobal.b-cdn.net/events/tokyo/square-logo/default.png",
+      "city": "Tokyo",
+      "country": "Japan",
+      "start_date": "2023-04-14",
+      "end_date": "2023-04-16"
+    },
+    {
+      "name": "Scaling Ethereum 2023",
+      "url": "https://ethglobal.com/events/scaling2023",
+      "logo_url": "https://ethglobal.b-cdn.net/events/scaling2023/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2023-03-10",
+      "end_date": "2023-03-31"
+    },
+    {
+      "name": "FVM Space Warp",
+      "url": "https://ethglobal.com/events/spacewarp",
+      "logo_url": "https://ethglobal.b-cdn.net/events/spacewarp/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2023-01-20",
+      "end_date": "2023-02-10"
+    },
+    {
+      "name": "ETHIndia 2022",
+      "url": "https://ethindia.co",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethindia2022/square-logo/default.png",
+      "city": "Bengaluru",
+      "country": "India",
+      "start_date": "2022-12-02",
+      "end_date": "2022-12-04"
+    },
+    {
+      "name": "Hack FEVM",
+      "url": "https://fevm.ethglobal.com/",
+      "logo_url": "https://ethglobal.b-cdn.net/events/hackfevm/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2022-11-18",
+      "end_date": "2022-11-20"
+    },
+    {
+      "name": "ETHSanFrancisco 2022",
+      "url": "https://sf.ethglobal.com/",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethsanfrancisco2022/square-logo/default.png",
+      "city": "San Francisco",
+      "country": "United States",
+      "start_date": "2022-11-04",
+      "end_date": "2022-11-06"
+    },
+    {
+      "name": "ETHBogotá",
+      "url": "https://bogota.ethglobal.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethbogota/square-logo/default.png",
+      "city": "Bogota",
+      "country": "Colombia",
+      "start_date": "2022-10-07",
+      "end_date": "2022-10-09"
+    },
+    {
+      "name": "ETHOnline 2022",
+      "url": "https://online.ethglobal.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethonline2022/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2022-09-02",
+      "end_date": "2022-09-28"
+    },
+    {
+      "name": "ETHMexico",
+      "url": "https://mexico.ethglobal.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethmexico/square-logo/default.png",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "start_date": "2022-08-19",
+      "end_date": "2022-08-21"
+    },
+    {
+      "name": "Metabolism",
+      "url": "https://zora.ethglobal.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/metabolism/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2022-08-04",
+      "end_date": "2022-08-10"
+    },
+    {
+      "name": "HackFS 2022",
+      "url": "https://ethglobal.com/events/hackfs2022",
+      "logo_url": "https://ethglobal.b-cdn.net/events/hackfs2022/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2022-07-08",
+      "end_date": "2022-07-29"
+    },
+    {
+      "name": "ETHNewYork 2022",
+      "url": "https://nyc.ethglobal.com/",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethnewyork2022/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2022-06-24",
+      "end_date": "2022-06-26"
+    },
+    {
+      "name": "HackMoney 2022",
+      "url": "https://defi.ethglobal.com/",
+      "logo_url": "https://ethglobal.b-cdn.net/events/hackmoney2022/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2022-05-06",
+      "end_date": "2022-05-27"
+    },
+    {
+      "name": "ETHAmsterdam",
+      "url": "https://amsterdam.ethglobal.com/",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethamsterdam/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2022-04-22",
+      "end_date": "2022-04-24"
+    },
+    {
+      "name": "DAOHacks",
+      "url": "https://dao.ethglobal.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/daohacks/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2022-04-08",
+      "end_date": "2022-04-10"
+    },
+    {
+      "name": "LFGrow",
+      "url": "https://lfgrow.ethglobal.com/",
+      "logo_url": "https://ethglobal.b-cdn.net/events/lfgrow/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2022-03-18",
+      "end_date": "2022-03-30"
+    },
+    {
+      "name": "BuildQuest",
+      "url": "https://buildquest.ethglobal.com/",
+      "logo_url": "https://ethglobal.b-cdn.net/events/buildquest/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2022-03-04",
+      "end_date": "2022-03-16"
+    },
+    {
+      "name": "Road to Web3",
+      "url": "https://web3.ethglobal.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/roadtoweb3/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2022-02-03",
+      "end_date": "2022-02-08"
+    },
+    {
+      "name": "NFTHack 2022",
+      "url": "https://nft.ethglobal.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/nfthack2022/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2022-01-14",
+      "end_date": "2022-01-16"
+    },
+    {
+      "name": "Web3Jam",
+      "url": "https://web3jam.ethglobal.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/web3jam/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2021-11-12",
+      "end_date": "2021-11-24"
+    },
+    {
+      "name": "UniCode",
+      "url": "https://unicode.ethglobal.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/unicode/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2021-10-29",
+      "end_date": "2021-11-10"
+    },
+    {
+      "name": "ETHOnline 2021",
+      "url": "https://online.ethglobal.com/",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethonline2021/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2021-09-17",
+      "end_date": "2021-10-14"
+    },
+    {
+      "name": "HackFS 2021",
+      "url": "https://fs.ethglobal.co/",
+      "logo_url": "https://ethglobal.b-cdn.net/events/hackfs2021/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2021-07-30",
+      "end_date": "2021-08-20"
+    },
+    {
+      "name": "HackMoney 2021",
+      "url": "https://defi.ethglobal.co",
+      "logo_url": "https://ethglobal.b-cdn.net/events/hackmoney2021/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2021-06-18",
+      "end_date": "2021-07-09"
+    },
+    {
+      "name": "Web3 Weekend",
+      "url": "https://web3weekend.ethglobal.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/web3weekend/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2021-05-28",
+      "end_date": "2021-05-30"
+    },
+    {
+      "name": "Scaling Ethereum",
+      "url": "https://scaling.ethglobal.co/",
+      "logo_url": "https://ethglobal.b-cdn.net/events/scaling/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2021-04-09",
+      "end_date": "2021-05-14"
+    },
+    {
+      "name": "NFTHack",
+      "url": "https://nft.ethglobal.co",
+      "logo_url": "https://ethglobal.b-cdn.net/events/nfthack/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2021-03-19",
+      "end_date": "2021-03-21"
+    },
+    {
+      "name": "MarketMake",
+      "url": "https://marketmake.ethglobal.co",
+      "logo_url": "https://ethglobal.b-cdn.net/events/marketmake/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2021-01-15",
+      "end_date": "2021-02-05"
+    },
+    {
+      "name": "ETHOnline",
+      "url": "https://ethonline.org",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethonline/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2020-10-01",
+      "end_date": "2020-10-31"
+    },
+    {
+      "name": "HackFS",
+      "url": "https://hackfs.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/hackfs/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2020-07-07",
+      "end_date": "2020-07-31"
+    },
+    {
+      "name": "HackMoney",
+      "url": "https://ethglobal.online",
+      "logo_url": "https://ethglobal.b-cdn.net/events/hackmoney/square-logo/default.png",
+      "city": "",
+      "country": "",
+      "start_date": "2020-04-24",
+      "end_date": "2020-05-24"
+    },
+    {
+      "name": "ETHLondonUK",
+      "url": "https://ethlondon.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethlondonuk/square-logo/default.png",
+      "city": "London",
+      "country": "United Kingdom",
+      "start_date": "2020-02-28",
+      "end_date": "2020-03-01"
+    },
+    {
+      "name": "ETHWaterloo 2019",
+      "url": "https://ethwaterloo.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethwaterloo2019/square-logo/default.png",
+      "city": "Waterloo",
+      "country": "Canada",
+      "start_date": "2019-11-08",
+      "end_date": "2019-11-10"
+    },
+    {
+      "name": "ETHBoston",
+      "url": "https://eth.boston",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethboston/square-logo/default.png",
+      "city": "Boston",
+      "country": "United States",
+      "start_date": "2019-09-06",
+      "end_date": "2019-09-08"
+    },
+    {
+      "name": "ETHNewYork",
+      "url": "https://ethnewyork.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethnewyork2019/square-logo/default.png",
+      "city": "New York",
+      "country": "United States",
+      "start_date": "2019-05-17",
+      "end_date": "2019-05-19"
+    },
+    {
+      "name": "ETHCapeTown",
+      "url": "https://ethcapetown.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethcapetown/square-logo/default.png",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "start_date": "2019-04-19",
+      "end_date": "2019-04-21"
+    },
+    {
+      "name": "ETHParis",
+      "url": "https://ethparis.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethparis/square-logo/default.png",
+      "city": "Paris",
+      "country": "France",
+      "start_date": "2019-03-07",
+      "end_date": "2019-03-10"
+    },
+    {
+      "name": "ETHSingapore",
+      "url": "https://ethsingapore.co",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethsingapore/square-logo/default.png",
+      "city": "Singapore",
+      "country": "Singapore",
+      "start_date": "2018-12-07",
+      "end_date": "2018-12-09"
+    },
+    {
+      "name": "ETHSanFrancisco",
+      "url": "https://ethsanfrancisco.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethsanfrancisco/square-logo/default.png",
+      "city": "San Francisco",
+      "country": "United States",
+      "start_date": "2018-10-05",
+      "end_date": "2018-10-07"
+    },
+    {
+      "name": "ETHWaterloo",
+      "url": "https://ethwaterloo.com",
+      "logo_url": "https://ethglobal.b-cdn.net/events/ethwaterloo/square-logo/default.png",
+      "city": "Waterloo",
+      "country": "Canada",
+      "start_date": "2017-10-13",
+      "end_date": "2017-10-15"
+    }
+  ]
+}
