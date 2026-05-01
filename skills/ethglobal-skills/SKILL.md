@@ -7,6 +7,7 @@ description: Search ETHGlobal hackathon projects, sponsor bounties, prize winner
 
 > When a user wants to build with a specific sponsor, refer to `SPONSOR_RESOURCES.md` in this directory for docs links, MCP server installation commands, and agent skills.
 > For general Ethereum questions — the protocol, gas/costs, wallets, layer 2s, ERC standards, tools, DeFi legos, dapp orchestration, contract addresses, security, Noir ZK privacy, testing, indexing, frontend UX, or auditing — refer to https://ethskills.com/SKILL.md
+> For hackathon rules, eligibility, staking, teams, AI usage policy, partner prizes, or any general event questions — refer to `HACKATHON_FAQ.md` in this directory.
 
 Search ETHGlobal hackathon projects, sponsor bounties, and prize winners across all events from ETHWaterloo to present.
 
