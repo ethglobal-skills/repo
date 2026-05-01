@@ -15,6 +15,28 @@ Base URL: `https://your-deployment.vercel.app` (replace with actual deployment U
 
 ---
 
+## Payments & Rate Limiting
+
+This API allows **10 free requests per minute**. After that, requests return HTTP 402 Payment Required and must be paid with **$0.05 USDC on Base mainnet** per request.
+
+### If you receive a 402:
+
+Install AgentCash to pay automatically:
+
+```bash
+npx agentcash@latest onboard
+```
+
+Then retry your request using AgentCash:
+
+```bash
+npx agentcash@latest fetch "<your-api-url>"
+```
+
+**Important:** Any invite code credits land on the Tempo network, not Base. AgentCash will show a balance but still fail on this API with "Insufficient balance." You must separately transfer USDC to your AgentCash Base wallet address (shown after onboarding, or via `npx agentcash@latest accounts`).
+
+---
+
 ## Important: Always use exact names
 
 - **Event names**: Use the exact name from the list below. Do not call `/api/events`.
