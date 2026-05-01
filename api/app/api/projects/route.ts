@@ -3,19 +3,21 @@ import { supabase } from '@/lib/supabase'
 
 // GET /api/projects
 // Query params:
-//   event   - partial event name match (optional)
-//   keyword - searches title + tagline + description (optional)
-//   sponsor - filter to projects that won a prize from this sponsor (optional)
-//   prize   - filter to projects that won a prize matching this title, e.g. "finalist", "best mini app" (optional)
-//   include - comma-separated optional fields to include: description, how_its_made (optional)
-//   limit   - max results, default 20, max 100
+//   event        - exact event name, case-insensitive (e.g. "ETHGlobal Taipei")
+//   keyword      - searches title, tagline, description, and how_its_made
+//   sponsor      - exact sponsor name (e.g. "Flow", "Uniswap Foundation")
+//   prize        - partial prize title match (e.g. "Finalist", "Best Mini App")
+//   pool         - include pool prize projects when filtering by sponsor (default false)
+//   include      - comma-separated optional fields: description, how_its_made
+//   limit        - max results, default 20, max 100
 export async function GET(req: NextRequest) {
   const { searchParams } = req.nextUrl
   const event = searchParams.get('event')
   const keyword = searchParams.get('keyword')
   const sponsor = searchParams.get('sponsor')
   const prize = searchParams.get('prize')
-  const limit = Math.min(parseInt(searchParams.get('limit') ?? '20'), 100)
+  const pool = searchParams.get('pool') === 'true'
+  const limit = Math.min(parseInt(searchParams.get('limit') ?? '30'), 100)
   const include = new Set((searchParams.get('include') ?? '').split(',').map(s => s.trim()).filter(Boolean))
 
   const selectFields = ['title', 'url', 'tagline', 'github', 'live_demo', 'event_id', 'events(name)']
@@ -27,7 +29,7 @@ export async function GET(req: NextRequest) {
     const { data, error } = await supabase
       .from('events')
       .select('id')
-      .ilike('name', `%${event}%`)
+      .ilike('name', event)
       .limit(1)
     if (error) return Response.json({ error: error.message }, { status: 500 })
     if (!data?.length) return Response.json({ projects: [] })
@@ -52,6 +54,12 @@ export async function GET(req: NextRequest) {
     if (eventId) prizeQuery = prizeQuery.eq('event_id', eventId)
     if (sponsorId) prizeQuery = prizeQuery.eq('sponsor_id', sponsorId)
     if (prize) prizeQuery = prizeQuery.ilike('title', `%${prize}%`)
+    // Exclude pool prizes by default when filtering by sponsor only (not when prize is explicit)
+    if (sponsor && !prize && !pool) {
+      prizeQuery = prizeQuery
+        .not('title', 'ilike', '%pool prize%')
+        .not('title', 'ilike', '%prize pool%')
+    }
 
     const { data: prizeData, error: prizeErr } = await prizeQuery
     if (prizeErr) return Response.json({ error: prizeErr.message }, { status: 500 })

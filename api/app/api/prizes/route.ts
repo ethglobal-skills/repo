@@ -26,7 +26,7 @@ export async function GET(req: NextRequest) {
     const { data, error } = await supabase
       .from('events')
       .select('id')
-      .ilike('name', `%${event}%`)
+      .ilike('name', event)
       .limit(1)
     if (error) return Response.json({ error: error.message }, { status: 500 })
     if (!data?.length) return Response.json({ results: [] })
