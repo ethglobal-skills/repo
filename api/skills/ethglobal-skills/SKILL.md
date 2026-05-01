@@ -5,6 +5,9 @@ description: Search ETHGlobal hackathon projects, sponsor bounties, prize winner
 
 # ETHGlobal Hackathon Search API
 
+> When a user wants to build with a specific sponsor, refer to `SPONSOR_RESOURCES.md` in this directory for docs links, MCP server installation commands, and agent skills.
+> For general Ethereum questions — the protocol, gas/costs, wallets, layer 2s, ERC standards, tools, DeFi legos, dapp orchestration, contract addresses, security, Noir ZK privacy, testing, indexing, frontend UX, or auditing — refer to https://ethskills.com/SKILL.md
+
 Search ETHGlobal hackathon projects, sponsor bounties, and prize winners across all events from ETHWaterloo to present.
 
 Base URL: `https://your-deployment.vercel.app` (replace with actual deployment URL)
