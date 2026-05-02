@@ -1,6 +1,6 @@
 ---
 name: ethglobal-skills
-description: Search ETHGlobal hackathon projects, sponsor bounties, prize winners, and qualification requirements. Use when the user asks about ETHGlobal hackathons, past winning projects, sponsor bounties, prize requirements, or wants to find projects built at ETHGlobal events.
+description: Search ETHGlobal hackathon projects, sponsor bounties, prize winners, and qualification requirements. Use when the user asks about ETHGlobal hackathon projects and winners, sponsor bounties, prize requirements, event rules, or wants to find sponsor docs.
 ---
 
 # ETHGlobal Hackathon Search API
@@ -47,7 +47,7 @@ npx agentcash@latest fetch "<your-api-url>"
 
 - **Event names**: Use the exact name from the list below. Do not call `/api/events`.
 - **Sponsor names**: Use the exact sponsor name as it appears in prize results. If unsure, call `GET /api/sponsors?keyword=...` to look it up.
-- **Year disambiguation**: If the user says "ETHGlobal New York" without a year and multiple events match, ask them which year before querying.
+- **Year disambiguation**: If the user says "ETHGlobal New York" without a year, ALWAYS ask them which year before querying.
 
 ### All events (use these exact strings for the `event` param)
 ETHGlobal Mumbai, ETHGlobal Tokyo 2026, ETHOnline 2026, ETHGlobal Lisbon 2026, ETHGlobal New York 2026, Open Agents, ETHGlobal Cannes 2026, HackMoney 2026, ETHGlobal Buenos Aires, ETHOnline 2025, ETHGlobal New Delhi, ETHGlobal New York 2025, Unite Defi, ETHGlobal Cannes, ETHGlobal Prague, ETHGlobal Taipei, ETHGlobal Trifecta, Agentic Ethereum, ETHGlobal Bangkok, ETHGlobal San Francisco, ETHGlobal Singapore, ETHOnline 2024, Superhack 2024, ETHGlobal Brussels, StarkHack, HackFS 2024, ETHGlobal Sydney, Scaling Ethereum 2024, Frameworks, ETHGlobal London, Circuit Breaker, LFGHO, ETHIndia 2023, ETHGlobal Istanbul, ETHOnline 2023, ETHGlobal New York, Superhack, ETHGlobal Paris, ETHGlobal Waterloo, HackFS 2023, Autonomous Worlds, ETHGlobal Lisbon, ETHGlobal Tokyo, Scaling Ethereum 2023, FVM Space Warp, ETHIndia 2022, Hack FEVM, ETHSanFrancisco 2022, ETHBogotá, ETHOnline 2022, ETHMexico, Metabolism, HackFS 2022, ETHNewYork 2022, HackMoney 2022, ETHAmsterdam, DAOHacks, LFGrow, BuildQuest, Road to Web3, NFTHack 2022, Web3Jam, UniCode, ETHOnline 2021, HackFS 2021, HackMoney 2021, Web3 Weekend, Scaling Ethereum, NFTHack, MarketMake, ETHOnline, HackFS, HackMoney, ETHLondonUK, ETHWaterloo 2019, ETHBoston, ETHNewYork, ETHCapeTown, ETHParis, ETHSingapore, ETHSanFrancisco, ETHWaterloo
@@ -124,7 +124,7 @@ Search hackathon projects. Filter by event, keyword, sponsor, or prize won.
 | `keyword` | Searches title, tagline, description, and how_its_made |
 | `sponsor` | Exact sponsor name — filters to projects that won a prize from this sponsor |
 | `prize` | Partial prize title match (e.g. `Finalist`, `Best Mini App`) |
-| `pool` | Set to `true` to include pool prize projects when filtering by sponsor (default: false) |
+| `pool` | Default is false, set to `true` if the user explicitly asks for pool prize winners |
 | `include` | Comma-separated optional fields: `description`, `how_its_made` |
 | `limit` | Max results, default `30`, max `100` |
 
@@ -136,7 +136,6 @@ Search hackathon projects. Filter by event, keyword, sponsor, or prize won.
 
 **Notes:**
 - `prizes_won` is only present when `sponsor` or `prize` is used.
-- When filtering by `sponsor` only, pool prizes (e.g. "Flow Builder Pool Prize") are excluded by default — only named prize winners are returned. Pass `pool=true` to include them.
 - For finalists, use `prize=Finalist`.
 
 **Response:**
