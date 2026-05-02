@@ -1,0 +1,261 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "ETHGlobal Search API",
+    "version": "1.0.0",
+    "description": "Search ETHGlobal hackathon projects, sponsor bounties, and prize winners across all events from ETHWaterloo to present.",
+    "x-guidance": "Use this API to search ETHGlobal hackathon data. All endpoints accept GET requests with query parameters. Typical workflow: (1) Use /api/prizes to find sponsor bounties and requirements for a specific event. (2) Use /api/projects to find winning projects filtered by event, sponsor, or keyword. (3) Use /api/sponsors to look up the exact sponsor name when unsure. Event names must be exact — use the full name like 'ETHGlobal Taipei' or 'HackMoney 2026'. The first 10 requests per minute are free; additional requests require $0.05 USDC on Base mainnet via x402."
+  },
+  "servers": [
+    { "url": "https://ethglobalskills.vercel.app" }
+  ],
+  "paths": {
+    "/api/sponsors": {
+      "get": {
+        "operationId": "getSponsors",
+        "summary": "List sponsor names",
+        "description": "Returns sponsor names. Use this to find the exact sponsor name to pass to /api/prizes or /api/projects.",
+        "x-payment-info": {
+          "price": { "mode": "fixed", "currency": "USD", "amount": "0.05" },
+          "protocols": [{ "x402": {} }]
+        },
+        "parameters": [
+          {
+            "name": "keyword",
+            "in": "query",
+            "required": false,
+            "description": "Partial name match to narrow results (e.g. 'uniswap')",
+            "schema": { "type": "string" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "List of sponsor names",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "sponsors": {
+                      "type": "array",
+                      "items": { "type": "string" }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "402": { "description": "Payment Required" }
+        }
+      }
+    },
+    "/api/events": {
+      "get": {
+        "operationId": "getEvents",
+        "summary": "List all hackathon events",
+        "description": "Returns all ETHGlobal events sorted by most recent first.",
+        "x-payment-info": {
+          "price": { "mode": "fixed", "currency": "USD", "amount": "0.05" },
+          "protocols": [{ "x402": {} }]
+        },
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "List of events",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "events": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "name": { "type": "string" },
+                          "url": { "type": "string" },
+                          "start_date": { "type": "string" },
+                          "end_date": { "type": "string" }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "402": { "description": "Payment Required" }
+        }
+      }
+    },
+    "/api/prizes": {
+      "get": {
+        "operationId": "getPrizes",
+        "summary": "Get sponsor bounties for an event",
+        "description": "Returns bounties grouped by sponsor with descriptions, qualifications, and resource links. At least one of event or sponsor is required.",
+        "x-payment-info": {
+          "price": { "mode": "fixed", "currency": "USD", "amount": "0.05" },
+          "protocols": [{ "x402": {} }]
+        },
+        "parameters": [
+          {
+            "name": "event",
+            "in": "query",
+            "required": false,
+            "description": "Exact event name (e.g. 'ETHGlobal Taipei', 'HackMoney 2026'). Required if sponsor not provided.",
+            "schema": { "type": "string" }
+          },
+          {
+            "name": "sponsor",
+            "in": "query",
+            "required": false,
+            "description": "Exact sponsor name (e.g. 'Uniswap Foundation', 'World'). Required if event not provided. When provided alone, returns most recent 10 prizes across all events.",
+            "schema": { "type": "string" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Bounties grouped by sponsor",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "results": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "name": { "type": "string" },
+                          "about": { "type": "string" },
+                          "docs": {
+                            "type": "array",
+                            "items": {
+                              "type": "object",
+                              "properties": {
+                                "name": { "type": "string" },
+                                "url": { "type": "string" }
+                              }
+                            }
+                          },
+                          "prizes": {
+                            "type": "array",
+                            "items": {
+                              "type": "object",
+                              "properties": {
+                                "title": { "type": "string" },
+                                "description": { "type": "string" },
+                                "qualifications": { "type": "string" }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": { "description": "Bad Request — at least one of event or sponsor is required" },
+          "402": { "description": "Payment Required" }
+        }
+      }
+    },
+    "/api/projects": {
+      "get": {
+        "operationId": "searchProjects",
+        "summary": "Search hackathon projects",
+        "description": "Search projects by event, keyword, sponsor, or prize won. Returns title, tagline, links, and prizes won.",
+        "x-payment-info": {
+          "price": { "mode": "fixed", "currency": "USD", "amount": "0.05" },
+          "protocols": [{ "x402": {} }]
+        },
+        "parameters": [
+          {
+            "name": "event",
+            "in": "query",
+            "required": false,
+            "description": "Exact event name (e.g. 'ETHGlobal Taipei')",
+            "schema": { "type": "string" }
+          },
+          {
+            "name": "keyword",
+            "in": "query",
+            "required": false,
+            "description": "Searches title, tagline, description, and how_its_made fields",
+            "schema": { "type": "string" }
+          },
+          {
+            "name": "sponsor",
+            "in": "query",
+            "required": false,
+            "description": "Exact sponsor name — filters to projects that won a prize from this sponsor",
+            "schema": { "type": "string" }
+          },
+          {
+            "name": "prize",
+            "in": "query",
+            "required": false,
+            "description": "Partial prize title match (e.g. 'Finalist', 'Best Mini App')",
+            "schema": { "type": "string" }
+          },
+          {
+            "name": "pool",
+            "in": "query",
+            "required": false,
+            "description": "Set to true to include pool prize projects when filtering by sponsor (default: false)",
+            "schema": { "type": "boolean", "default": false }
+          },
+          {
+            "name": "include",
+            "in": "query",
+            "required": false,
+            "description": "Comma-separated optional fields to include: description, how_its_made",
+            "schema": { "type": "string" }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "description": "Max results (default: 30, max: 100)",
+            "schema": { "type": "integer", "default": 30, "maximum": 100 }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "List of matching projects",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "projects": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "title": { "type": "string" },
+                          "url": { "type": "string" },
+                          "tagline": { "type": "string" },
+                          "github": { "type": "string" },
+                          "live_demo": { "type": "string" },
+                          "hackathon": { "type": "string" },
+                          "prizes_won": {
+                            "type": "array",
+                            "items": { "type": "string" }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "402": { "description": "Payment Required" }
+        }
+      }
+    }
+  }
+}
