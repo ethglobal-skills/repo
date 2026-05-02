@@ -13,3 +13,6 @@ One command gives your coding agents access to:
 **⭐️ If you found this useful, please star this repo! ⭐️**
 
 For example queries and full API docs, check out [`skills/ethglobal-skills/SKILL.md`](skills/ethglobal-skills/SKILL.md).
+
+
+Inspired by [Colosseum Copilot](https://docs.colosseum.com/copilot/introduction) and [ETHSkills](https://ethskills.com/).
