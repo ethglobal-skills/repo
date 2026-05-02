@@ -4,6 +4,7 @@ import { HTTPFacilitatorClient } from '@x402/core/server'
 import { createFacilitatorConfig } from '@coinbase/x402'
 import { NextRequest, NextResponse } from 'next/server'
 
+const SKILL_VERSION = '1.0.0'
 const REQUESTS_PER_MINUTE = 10
 
 // In-memory rate limit store — works for local testing only.
@@ -61,8 +62,11 @@ const paywalled = paymentProxy(
 
 export async function middleware(req: NextRequest): Promise<NextResponse> {
   const ip = getIp(req)
-  if (!isRateLimited(ip)) return NextResponse.next()
-  return paywalled(req) as Promise<NextResponse>
+  const res = isRateLimited(ip)
+    ? await paywalled(req) as NextResponse
+    : NextResponse.next()
+  res.headers.set('X-Skill-Version', SKILL_VERSION)
+  return res
 }
 
 export const config = {

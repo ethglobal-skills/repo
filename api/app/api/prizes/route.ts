@@ -9,8 +9,8 @@ function baseTitle(title: string) {
 
 // GET /api/prizes
 // Returns bounties grouped by sponsor, with docs nested under each prize.
-// - event: partial event name match (required if sponsor not provided)
-// - sponsor: exact sponsor name match (required if event not provided)
+// - event: exact event name, case-insensitive (required if sponsor not provided)
+// - sponsor: exact sponsor name, case-insensitive (required if event not provided)
 //   When sponsor-only, returns most recent 10 unique prizes across all events.
 export async function GET(req: NextRequest) {
   const { searchParams } = req.nextUrl
@@ -71,7 +71,6 @@ export async function GET(req: NextRequest) {
   let deduped = [...best.values()]
   if (!eventId && sponsorId) deduped = deduped.slice(0, 10)
 
-  // Fetch docs grouped by sponsor_id (scoped to event if provided)
   const uniqueSponsorIds = [...new Set(deduped.map((p: any) => p.sponsor_id))]
   let docsQuery = supabase
     .from('sponsor_docs')
@@ -87,7 +86,6 @@ export async function GET(req: NextRequest) {
     docsBySponsor.set(d.sponsor_id, existing)
   }
 
-  // Group prizes by sponsor
   const bySponsor = new Map<number, any>()
   for (const p of deduped) {
     const sid = p.sponsor_id

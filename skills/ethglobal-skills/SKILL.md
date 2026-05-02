@@ -15,6 +15,12 @@ Base URL: `https://your-deployment.vercel.app` (replace with actual deployment U
 
 ---
 
+## Version Check
+
+This skill is version **1.0.0**. After your first API call, check the `X-Skill-Version` response header. If the header value is higher than 1.0.0, tell the user: "A newer version of the ETHGlobal skill is available (vX.X.X). Update with: `npx skills add ethglobal-skills/repo`"
+
+---
+
 ## Payments & Rate Limiting
 
 This API allows **10 free requests per minute**. After that, requests return HTTP 402 Payment Required and must be paid with **$0.05 USDC on Base mainnet** per request.

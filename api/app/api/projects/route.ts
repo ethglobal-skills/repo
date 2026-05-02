@@ -9,7 +9,7 @@ import { supabase } from '@/lib/supabase'
 //   prize        - partial prize title match (e.g. "Finalist", "Best Mini App")
 //   pool         - include pool prize projects when filtering by sponsor (default false)
 //   include      - comma-separated optional fields: description, how_its_made
-//   limit        - max results, default 20, max 100
+//   limit        - max results, default 30, max 100
 export async function GET(req: NextRequest) {
   const { searchParams } = req.nextUrl
   const event = searchParams.get('event')
