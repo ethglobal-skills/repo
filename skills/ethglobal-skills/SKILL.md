@@ -11,7 +11,7 @@ description: Search ETHGlobal hackathon projects, sponsor bounties, prize winner
 
 Search ETHGlobal hackathon projects, sponsor bounties, and prize winners across all events from ETHWaterloo to present.
 
-Base URL: `https://your-deployment.vercel.app` (replace with actual deployment URL)
+Base URL: `https://ethglobalskills.vercel.app`
 
 ---
 
