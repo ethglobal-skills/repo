@@ -12,7 +12,7 @@ One command gives your coding agents access to:
 
 **⭐️ If you found this useful, please star this repo! ⭐️**
 
-For example queries and full API docs, check out [`skills/ethglobal-skills/SKILL.md`](skills/ethglobal-skills/SKILL.md).
+For example queries and full API docs, check out [`skills/ethglobal-skills/SKILL.md`](skills/ethglobal-skills/SKILL.md). Rate limiting is done via x402. If you reach over 10 requests / minute, it'll be $0.05 USDC on Base mainnet. Install AgentCash and transfer a small amount to continue!
 
 
 Inspired by [Colosseum Copilot](https://docs.colosseum.com/copilot/introduction) and [ETHSkills](https://ethskills.com/).
