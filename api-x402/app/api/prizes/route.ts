@@ -7,10 +7,10 @@ function baseTitle(title: string) {
   return title.replace(SUFFIX_RE, '').trim()
 }
 
-export async function GET(req: NextRequest) {
-  const { searchParams } = req.nextUrl
-  const event = searchParams.get('event')
-  const sponsor = searchParams.get('sponsor')
+export async function POST(req: NextRequest) {
+  const body = await req.json().catch(() => ({}))
+  const event: string | null = body.event ?? null
+  const sponsor: string | null = body.sponsor ?? null
 
   if (!event && !sponsor) {
     return Response.json({ error: 'at least one of event or sponsor is required' }, { status: 400 })

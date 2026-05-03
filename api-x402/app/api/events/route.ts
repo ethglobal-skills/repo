@@ -1,6 +1,6 @@
 import { supabase } from '@/lib/supabase'
 
-export async function GET() {
+export async function POST() {
   const { data, error } = await supabase
     .from('events')
     .select('name, url, start_date, end_date')

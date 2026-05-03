@@ -1,9 +1,9 @@
 import { NextRequest } from 'next/server'
 import { supabase } from '@/lib/supabase'
 
-export async function GET(req: NextRequest) {
-  const { searchParams } = req.nextUrl
-  const keyword = searchParams.get('keyword')
+export async function POST(req: NextRequest) {
+  const body = await req.json().catch(() => ({}))
+  const keyword: string | null = body.keyword ?? null
 
   let query = supabase
     .from('sponsors')

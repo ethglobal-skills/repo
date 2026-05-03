@@ -1,15 +1,19 @@
 import { NextRequest } from 'next/server'
 import { supabase } from '@/lib/supabase'
 
-export async function GET(req: NextRequest) {
-  const { searchParams } = req.nextUrl
-  const event = searchParams.get('event')
-  const keyword = searchParams.get('keyword')
-  const sponsor = searchParams.get('sponsor')
-  const prize = searchParams.get('prize')
-  const pool = searchParams.get('pool') === 'true'
-  const limit = Math.min(parseInt(searchParams.get('limit') ?? '30'), 100)
-  const include = new Set((searchParams.get('include') ?? '').split(',').map(s => s.trim()).filter(Boolean))
+export async function POST(req: NextRequest) {
+  const body = await req.json().catch(() => ({}))
+  const event: string | null = body.event ?? null
+  const keyword: string | null = body.keyword ?? null
+  const sponsor: string | null = body.sponsor ?? null
+  const prize: string | null = body.prize ?? null
+  const pool: boolean = body.pool === true
+  const limit: number = Math.min(body.limit ?? 30, 100)
+  const include = new Set<string>(
+    Array.isArray(body.include)
+      ? body.include
+      : (body.include ?? '').split(',').map((s: string) => s.trim()).filter(Boolean)
+  )
 
   const selectFields = ['title', 'url', 'tagline', 'github', 'live_demo', 'event_id', 'events(name)']
   if (include.has('description')) selectFields.push('description')
