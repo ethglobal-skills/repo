@@ -60,11 +60,34 @@ const paywalled = paymentProxy(
   server,
 )
 
+const paidProxy = paymentProxy(
+  {
+    '/api/paid/:path*': {
+      accepts: [
+        {
+          scheme: 'exact',
+          price: '$0.01',
+          network: 'eip155:8453',
+          payTo: process.env.PAYMENT_ADDRESS!,
+        },
+      ],
+      description: 'ETHGlobal Search API — $0.01 USDC per request',
+      mimeType: 'application/json',
+    },
+  },
+  server,
+)
+
 export async function middleware(req: NextRequest): Promise<NextResponse> {
-  const ip = getIp(req)
-  const res = isRateLimited(ip)
-    ? await paywalled(req) as NextResponse
-    : NextResponse.next()
+  const { pathname } = req.nextUrl
+  let res: NextResponse
+  if (pathname.startsWith('/api/paid/')) {
+    res = await paidProxy(req) as NextResponse
+  } else if (isRateLimited(getIp(req))) {
+    res = await paywalled(req) as NextResponse
+  } else {
+    res = NextResponse.next()
+  }
   res.headers.set('X-Skill-Version', SKILL_VERSION)
   return res
 }
