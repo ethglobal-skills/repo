@@ -1,0 +1,2319 @@
+{
+  "projects": [
+    {
+      "title": "Superps",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/superps-o7sfj"
+    },
+    {
+      "title": "Agrobase",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agrobase-pfpa4"
+    },
+    {
+      "title": "Conclave",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/conclave-u2mh2"
+    },
+    {
+      "title": "AgentRadar",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentradar-4dx17"
+    },
+    {
+      "title": "Clan World: Ælder...",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/clan-world-aelder-g4i6y"
+    },
+    {
+      "title": "Rebalancer",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/rebalancer-vaz83"
+    },
+    {
+      "title": "0G SkillGate",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/0g-skillgate-xja63"
+    },
+    {
+      "title": "DeadAgent",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/deadagent-5iwat"
+    },
+    {
+      "title": "AXL Hub",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/axl-hub-zzvp0"
+    },
+    {
+      "title": "Sibyl",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/sibyl-3rx5x"
+    },
+    {
+      "title": "GuardianKit",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/guardiankit-52h0u"
+    },
+    {
+      "title": "Omikuji Hub",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/omikuji-hub-74fsi"
+    },
+    {
+      "title": "IntentMesh",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/intentmesh-oxzxh"
+    },
+    {
+      "title": "AgentMandate",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentmandate-u1g6j"
+    },
+    {
+      "title": "Bunkermode",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/bunkermode-9qoyi"
+    },
+    {
+      "title": "Murmur",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/murmur-tokxi"
+    },
+    {
+      "title": "Homer's Adventure",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/homers-adventure-mxz6s"
+    },
+    {
+      "title": "Mobile Twin",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/mobile-twin-51ryv"
+    },
+    {
+      "title": "Charon",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/charon-x0r1r"
+    },
+    {
+      "title": "RB Agent Protocol",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/rb-agent-protocol-w2dt1"
+    },
+    {
+      "title": "AgentForge",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentforge-t3z5j"
+    },
+    {
+      "title": "Rumble",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/rumble-o0wse"
+    },
+    {
+      "title": "TriageKit",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/triagekit-2h2fh"
+    },
+    {
+      "title": "pair gate",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/pair-gate-bd3jn"
+    },
+    {
+      "title": "Omeswap",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/omeswap-1ge2q"
+    },
+    {
+      "title": "Sayben",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/sayben-bb1x2"
+    },
+    {
+      "title": "AI Treasury Council",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ai-treasury-council-w7ich"
+    },
+    {
+      "title": "Nyxie",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/nyxie-ry2jk"
+    },
+    {
+      "title": "Astron",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/astron-8xffx"
+    },
+    {
+      "title": "era",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/era-a1dv9"
+    },
+    {
+      "title": "0friction",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/0friction-o0foa"
+    },
+    {
+      "title": "Dromeus",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/dromeus-j1j2t"
+    },
+    {
+      "title": "Sentinel",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/sentinel-9eupk"
+    },
+    {
+      "title": "ZKai",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/zkai-s0hfx"
+    },
+    {
+      "title": "Node Nexus",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/node-nexus-r5379"
+    },
+    {
+      "title": "Hustl3",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/hustl3-de5q3"
+    },
+    {
+      "title": "Clone",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/clone-rizrj"
+    },
+    {
+      "title": "Ömer Altundağ",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/omer-altundag-25eci"
+    },
+    {
+      "title": "Auto",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/auto-37nid"
+    },
+    {
+      "title": "Dexora Trading Agent",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/dexora-trading-agent-kc228"
+    },
+    {
+      "title": "Agent-flame 🔥",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agent-flame-fire-mras0"
+    },
+    {
+      "title": "DefiWar",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/defiwar-nhyq7"
+    },
+    {
+      "title": "AegisMesh",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/aegismesh-miqgf"
+    },
+    {
+      "title": "Agents Scan",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agents-scan-5aau0"
+    },
+    {
+      "title": "Proofcourt",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/proofcourt-0n2bk"
+    },
+    {
+      "title": "Sentinel Swarm",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/sentinel-swarm-bx4eb"
+    },
+    {
+      "title": "Trust Swap",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/trust-swap-6zgfp"
+    },
+    {
+      "title": "FlowWage",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/flowwage-cdazn"
+    },
+    {
+      "title": "Pullpay",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/pullpay-88pbq"
+    },
+    {
+      "title": "Hawk",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/hawk-vdbeq"
+    },
+    {
+      "title": "Og-Island",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/og-island-9myzt"
+    },
+    {
+      "title": "enwise",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/enwise-2to7z"
+    },
+    {
+      "title": "RAXC",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/raxc-y68ka"
+    },
+    {
+      "title": "TamaTown",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/tamatown-q8j8t"
+    },
+    {
+      "title": "Tessra",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/tessra-pnkv6"
+    },
+    {
+      "title": "SYNOD",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/synod-78yoz"
+    },
+    {
+      "title": "Agent Werewolf",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agent-werewolf-du3ee"
+    },
+    {
+      "title": "Care Porta",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/care-porta-hhro6"
+    },
+    {
+      "title": "parellax",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/parellax-wkctq"
+    },
+    {
+      "title": "Open Research",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/open-research-pmuu0"
+    },
+    {
+      "title": "Trust402",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/trust402-g33f4"
+    },
+    {
+      "title": "Federated Reserve",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/federated-reserve-n10yp"
+    },
+    {
+      "title": "RelayX",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/relayx-8cabh"
+    },
+    {
+      "title": "0G Mem",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/0g-mem-jy9ep"
+    },
+    {
+      "title": "zerogochi",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/zerogochi-vwyip"
+    },
+    {
+      "title": "Nuncius",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/nuncius-qrdg5"
+    },
+    {
+      "title": "Zer0x PayAgent",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/zer0x-payagent-bf5pg"
+    },
+    {
+      "title": "Prompt Nutrition",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/prompt-nutrition-oq64u"
+    },
+    {
+      "title": "ReAgent",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/reagent-7uyso"
+    },
+    {
+      "title": "440hz",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/440hz-dya3u"
+    },
+    {
+      "title": "ENSign",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ensign-am7ya"
+    },
+    {
+      "title": "AgnetVerse",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agnetverse-74vsk"
+    },
+    {
+      "title": "Ethereum Code",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ethereum-code-4pvjk"
+    },
+    {
+      "title": "Darkpool",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/darkpool-6gjke"
+    },
+    {
+      "title": "Ledger Grove",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ledger-grove-auo45"
+    },
+    {
+      "title": "VeiledSwap 2.0",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/veiledswap-2-0-9id92"
+    },
+    {
+      "title": "OpenGap Agents",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/opengap-agents-o5xsf"
+    },
+    {
+      "title": "Hive.ax",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/hive-ax-sky2n"
+    },
+    {
+      "title": "Agent Mesh",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agent-mesh-fxq0e"
+    },
+    {
+      "title": "The Yard",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/the-yard-tuyrc"
+    },
+    {
+      "title": "Sprnt",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/sprnt-djs9i"
+    },
+    {
+      "title": "AgentCity",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentcity-6bm2j"
+    },
+    {
+      "title": "OpenAgents",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/openagents-tpm6m"
+    },
+    {
+      "title": "Covenant",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/covenant-fjt1b"
+    },
+    {
+      "title": "Chaingammon",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/chaingammon-w083e"
+    },
+    {
+      "title": "Gwarr",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/gwarr-4xvz0"
+    },
+    {
+      "title": "MindVault",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/mindvault-jzzhc"
+    },
+    {
+      "title": "ScrollPen",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/scrollpen-fstu3"
+    },
+    {
+      "title": "Moirai",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/moirai-htq6x"
+    },
+    {
+      "title": "Aaether",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/aaether-yc764"
+    },
+    {
+      "title": "Factuam",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/factuam-hm2cy"
+    },
+    {
+      "title": "Triguard",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/triguard-xcikn"
+    },
+    {
+      "title": "Huddle to buy",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/huddle-to-buy-z87gt"
+    },
+    {
+      "title": "ZYN",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/zyn-qqj0p"
+    },
+    {
+      "title": "E-cir",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/e-cir-dfain"
+    },
+    {
+      "title": "EthTix",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ethtix-47db7"
+    },
+    {
+      "title": "Shingeki",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/shingeki-d5z0q"
+    },
+    {
+      "title": "Prooflane",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/prooflane-18g43"
+    },
+    {
+      "title": "cortex",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/cortex-cactx"
+    },
+    {
+      "title": "Keeper-Gate",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/keeper-gate-hr2jk"
+    },
+    {
+      "title": "Mycel",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/mycel-bjgp3"
+    },
+    {
+      "title": "tollgate",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/tollgate-awmut"
+    },
+    {
+      "title": "NeuralMesh",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/neuralmesh-aq56c"
+    },
+    {
+      "title": "Anchor",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/anchor-d4bbr"
+    },
+    {
+      "title": "Agent Layer",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agent-layer-qfa7x"
+    },
+    {
+      "title": "UniAgent",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/uniagent-59jih"
+    },
+    {
+      "title": "2in",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/2in-jf0fo"
+    },
+    {
+      "title": "PayPer Card",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/payper-card-fehui"
+    },
+    {
+      "title": "P2PAI",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/p2pai-7sqz7"
+    },
+    {
+      "title": "ToxicFlow",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/toxicflow-g72i9"
+    },
+    {
+      "title": "OpenAcid",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/openacid-3m7mo"
+    },
+    {
+      "title": "Axolotl",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/axolotl-fmjc5"
+    },
+    {
+      "title": "AgentCred",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentcred-p0wcv"
+    },
+    {
+      "title": "Creble",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/creble-3xu2f"
+    },
+    {
+      "title": "Agent Bazaar",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agent-bazaar-m6if0"
+    },
+    {
+      "title": "Buildersclaw",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/buildersclaw-58628"
+    },
+    {
+      "title": "Peerlane",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/peerlane-syx0j"
+    },
+    {
+      "title": "Deliberate",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/deliberate-7sfna"
+    },
+    {
+      "title": "creditmesh",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/creditmesh-mmm3b"
+    },
+    {
+      "title": "ENSFirewall",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ensfirewall-w3n92"
+    },
+    {
+      "title": "zhgg",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/zhgg-k9i3g"
+    },
+    {
+      "title": "SynapseX",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/synapsex-77om2"
+    },
+    {
+      "title": "0g router chat sdk",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/0g-router-chat-sdk-3hs18"
+    },
+    {
+      "title": "AgentFund",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentfund-ad7ev"
+    },
+    {
+      "title": "Koloyield",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/koloyield-oqzy7"
+    },
+    {
+      "title": "OpenClaw KeeperLink",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/openclaw-keeperlink-bvape"
+    },
+    {
+      "title": "Mnemosyne",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/mnemosyne-4ga04"
+    },
+    {
+      "title": "Futarchy",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/futarchy-gajqd"
+    },
+    {
+      "title": "Ajently",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ajently-nxbyi"
+    },
+    {
+      "title": "AI Village",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ai-village-8po71"
+    },
+    {
+      "title": "Brainpedia",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/brainpedia-ctx9g"
+    },
+    {
+      "title": "AgentPact",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentpact-ugs8y"
+    },
+    {
+      "title": "Treatise",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/treatise-qwjet"
+    },
+    {
+      "title": "AXL402",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/axl402-tbisp"
+    },
+    {
+      "title": "OpenDock",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/opendock-6fun0"
+    },
+    {
+      "title": "Alpha Ledger",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/alpha-ledger-f6wuf"
+    },
+    {
+      "title": "FairTrain",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/fairtrain-fv9xc"
+    },
+    {
+      "title": "Learn-KeeperHub",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/learn-keeperhub-stw2z"
+    },
+    {
+      "title": "AgentFi City",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentfi-city-1997z"
+    },
+    {
+      "title": "Rootpay x KeeperHub",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/rootpay-x-keeperhub-s1u06"
+    },
+    {
+      "title": "Gabhru",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/gabhru-ckpyz"
+    },
+    {
+      "title": "AgentARC Protocol",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentarc-protocol-mq5y8"
+    },
+    {
+      "title": "Pariksha",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/pariksha-nes6y"
+    },
+    {
+      "title": "jellyNet",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/jellynet-16j85"
+    },
+    {
+      "title": "Hiveclaw",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/hiveclaw-8onaf"
+    },
+    {
+      "title": "GhostWriter",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ghostwriter-mzevd"
+    },
+    {
+      "title": "sovereign-swarm-os",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/sovereign-swarm-os-n7zat"
+    },
+    {
+      "title": "StudySphere",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/studysphere-cm9jb"
+    },
+    {
+      "title": "Pantheon",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/pantheon-w0w61"
+    },
+    {
+      "title": "Peaky Agents 🚬",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/peaky-agents-smoking-cpbv3"
+    },
+    {
+      "title": "Ledger",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ledger-bineb"
+    },
+    {
+      "title": "AgentMarket",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentmarket-6nqqv"
+    },
+    {
+      "title": "Phantom Protocol",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/phantom-protocol-mjge9"
+    },
+    {
+      "title": "Breakglass",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/breakglass-4tjd7"
+    },
+    {
+      "title": "SAIL",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/sail-k71d8"
+    },
+    {
+      "title": "POIP",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/poip-va2rt"
+    },
+    {
+      "title": "spokenagents",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/spokenagents-prox9"
+    },
+    {
+      "title": "AgentOS",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentos-h74fi"
+    },
+    {
+      "title": "SimoProof",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/simoproof-aoz2z"
+    },
+    {
+      "title": "Aegis-arena",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/aegis-arena-fzo57"
+    },
+    {
+      "title": "0G Forge",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/0g-forge-wmv0f"
+    },
+    {
+      "title": "SonoSig",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/sonosig-rybw9"
+    },
+    {
+      "title": "Klaxon",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/klaxon-ozmrt"
+    },
+    {
+      "title": "MiliGents",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/miligents-utar8"
+    },
+    {
+      "title": "Pythia",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/pythia-gj44b"
+    },
+    {
+      "title": "Simcity",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/simcity-cgt9k"
+    },
+    {
+      "title": "Arbitrax",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/arbitrax-oufe9"
+    },
+    {
+      "title": "AgenC",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agenc-vtxjp"
+    },
+    {
+      "title": "ClawForger",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/clawforger-jitai"
+    },
+    {
+      "title": "Molfi.fun",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/molfi-fun-rf8ai"
+    },
+    {
+      "title": "0x Golden Goose",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/0x-golden-goose-vwuoe"
+    },
+    {
+      "title": "agentdir",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentdir-jyi5b"
+    },
+    {
+      "title": "CactusNetwork",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/cactusnetwork-1s093"
+    },
+    {
+      "title": "AXL Agent Swarm",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/axl-agent-swarm-qcqn5"
+    },
+    {
+      "title": "OpenWilds",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/openwilds-5czv8"
+    },
+    {
+      "title": "Chainshield Agent",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/chainshield-agent-x0c8f"
+    },
+    {
+      "title": "Edgent",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/edgent-9qnxb"
+    },
+    {
+      "title": "ComputePool",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/computepool-cxb6m"
+    },
+    {
+      "title": "Agentic-Ocean",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentic-ocean-thckh"
+    },
+    {
+      "title": "Right-Hand AI",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/right-hand-ai-vozqg"
+    },
+    {
+      "title": "SWARM ARENA",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/swarm-arena-qj1cn"
+    },
+    {
+      "title": "Keeperhub Matcha",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/keeperhub-matcha-9bva0"
+    },
+    {
+      "title": "Council_XL",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/council-xl-3gx4o"
+    },
+    {
+      "title": "Open tool mesh",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/open-tool-mesh-76b7x"
+    },
+    {
+      "title": "Hermes Agent",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/hermes-agent-03bzd"
+    },
+    {
+      "title": "AgentMesh",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentmesh-ovyag"
+    },
+    {
+      "title": "DeFI Swarm",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/defi-swarm-skzd9"
+    },
+    {
+      "title": "Unvibe Hackathons",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/unvibe-hackathons-4zpce"
+    },
+    {
+      "title": "COMPUT3",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/comput3-o1tg7"
+    },
+    {
+      "title": "TaskLoop",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/taskloop-oim40"
+    },
+    {
+      "title": "Spike",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/spike-wn2td"
+    },
+    {
+      "title": "Aye",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/aye-qd03w"
+    },
+    {
+      "title": "Tribunal",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/tribunal-203yo"
+    },
+    {
+      "title": "Proofforge",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/proofforge-dn2t7"
+    },
+    {
+      "title": "Proof Of Vibe",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/proof-of-vibe-2ppcy"
+    },
+    {
+      "title": "Aegis Wallet",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/aegis-wallet-754mm"
+    },
+    {
+      "title": "Prompt Proof",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/prompt-proof-sq62u"
+    },
+    {
+      "title": "workr",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/workr-oge6j"
+    },
+    {
+      "title": "Sirius",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/sirius-bt49q"
+    },
+    {
+      "title": "HookLens",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/hooklens-sc1r0"
+    },
+    {
+      "title": "SibylFi",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/sibylfi-qddqc"
+    },
+    {
+      "title": "AGENTNS",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentns-decz2"
+    },
+    {
+      "title": "Agents with MIST",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agents-with-mist-zxzhx"
+    },
+    {
+      "title": "Whisper Network",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/whisper-network-rsh4a"
+    },
+    {
+      "title": "Antibody",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/antibody-y7p4x"
+    },
+    {
+      "title": "JURI Protocol",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/juri-protocol-pnim6"
+    },
+    {
+      "title": "Swarmex",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/swarmex-pu9i1"
+    },
+    {
+      "title": "Axiom-Fi",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/axiom-fi-mmaf8"
+    },
+    {
+      "title": "AgentMesh MCPs",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentmesh-mcps-xxy9e"
+    },
+    {
+      "title": "Tracer",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/tracer-mfsei"
+    },
+    {
+      "title": "Relay",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/relay-iepc9"
+    },
+    {
+      "title": "Agent_pact",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agent-pact-46m1i"
+    },
+    {
+      "title": "AgentMeshhh",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentmeshhh-oas6a"
+    },
+    {
+      "title": "Pulse",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/pulse-fw0ue"
+    },
+    {
+      "title": "Intelligence Market",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/intelligence-market-b81am"
+    },
+    {
+      "title": "Lumina-swarm",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/lumina-swarm-mhwbp"
+    },
+    {
+      "title": "BNS Marketplace",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/bns-marketplace-1bdsa"
+    },
+    {
+      "title": "ENS -Intent-Bus",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ens-intent-bus-3z9ts"
+    },
+    {
+      "title": "Million Pot Game",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/million-pot-game-qo4ra"
+    },
+    {
+      "title": "AgentNet",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentnet-bc9w8"
+    },
+    {
+      "title": "Talos",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/talos-yoct4"
+    },
+    {
+      "title": "DeAI simulation",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/deai-simulation-z6qfx"
+    },
+    {
+      "title": "agentx",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentx-oru0q"
+    },
+    {
+      "title": "LobPay",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/lobpay-v4qe0"
+    },
+    {
+      "title": "Trace&AgenticBuilder",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/trace-and-agenticbuilder-xuq1k"
+    },
+    {
+      "title": "MCTS QCM",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/mcts-qcm-6k8jp"
+    },
+    {
+      "title": "CapyMate",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/capymate-hccce"
+    },
+    {
+      "title": "Agent Talos",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agent-talos-somjv"
+    },
+    {
+      "title": "Sybil",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/sybil-bjzai"
+    },
+    {
+      "title": "Warden Mesh",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/warden-mesh-0ngpa"
+    },
+    {
+      "title": "Agent-Verify",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agent-verify-favem"
+    },
+    {
+      "title": "Chain Right",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/chain-right-4zoej"
+    },
+    {
+      "title": "Curia Protocol",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/curia-protocol-9juzf"
+    },
+    {
+      "title": "proof-of-artist",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/proof-of-artist-nowu4"
+    },
+    {
+      "title": "Sigil",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/sigil-boiv3"
+    },
+    {
+      "title": "Kiln",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/kiln-c21wd"
+    },
+    {
+      "title": "UptoMe",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/uptome-hs7v3"
+    },
+    {
+      "title": "Cognia",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/cognia-d2528"
+    },
+    {
+      "title": "memorymerge",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/memorymerge-6we7v"
+    },
+    {
+      "title": "Sanctum",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/sanctum-sx23h"
+    },
+    {
+      "title": "Friday",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/friday-ntcwz"
+    },
+    {
+      "title": "solo staking agent",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/solo-staking-agent-vo3o1"
+    },
+    {
+      "title": "taars",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/taars-j8jb6"
+    },
+    {
+      "title": "ZW.ARM",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/zw-arm-enbkh"
+    },
+    {
+      "title": "veritas-net",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/veritas-net-gt4ee"
+    },
+    {
+      "title": "vigil",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/vigil-8sxu1"
+    },
+    {
+      "title": "CoinYield",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/coinyield-nja7x"
+    },
+    {
+      "title": "SwarmSwap",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/swarmswap-yvkef"
+    },
+    {
+      "title": "EthCredit",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ethcredit-avd5q"
+    },
+    {
+      "title": "FFE",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ffe-nmr2w"
+    },
+    {
+      "title": "Reckon Protocol",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/reckon-protocol-fvsgv"
+    },
+    {
+      "title": "Agent-town",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agent-town-4z7z4"
+    },
+    {
+      "title": "Aegis Swarm",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/aegis-swarm-ppqr0"
+    },
+    {
+      "title": "TrustLance",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/trustlance-5ggzm"
+    },
+    {
+      "title": "MEV forensics",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/mev-forensics-69whf"
+    },
+    {
+      "title": "Delphic Duel",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/delphic-duel-x919p"
+    },
+    {
+      "title": "Wallet-score-checker",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/wallet-score-checker-j75vo"
+    },
+    {
+      "title": "Shark Council",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/shark-council-mzmap"
+    },
+    {
+      "title": "IntentLayer",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/intentlayer-mtdds"
+    },
+    {
+      "title": "Foro",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/foro-x0h61"
+    },
+    {
+      "title": "Aegis402",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/aegis402-o8x6z"
+    },
+    {
+      "title": "Zarqaa — زرقاء",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/zarqaa-zrq-cgm1n"
+    },
+    {
+      "title": "ClearIntent",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/clearintent-fzeo5"
+    },
+    {
+      "title": "DeterAgent",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/deteragent-omxmt"
+    },
+    {
+      "title": "ClawGuard",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/clawguard-5f82q"
+    },
+    {
+      "title": "Pico",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/pico-6b20f"
+    },
+    {
+      "title": "SwarmFi",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/swarmfi-5ygxb"
+    },
+    {
+      "title": "ThoughtLine",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/thoughtline-vzs5n"
+    },
+    {
+      "title": "Agent Adapter",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agent-adapter-rh9yg"
+    },
+    {
+      "title": "NeuralHook",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/neuralhook-8gxzp"
+    },
+    {
+      "title": "Filler SDK",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/filler-sdk-if1jd"
+    },
+    {
+      "title": "AIQuescore",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/aiquescore-pspsb"
+    },
+    {
+      "title": "Spieon",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/spieon-6jh5j"
+    },
+    {
+      "title": "weft",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/weft-o9g5i"
+    },
+    {
+      "title": "Axiom",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/axiom-2dbzq"
+    },
+    {
+      "title": "DAIO",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/daio-zce3h"
+    },
+    {
+      "title": "AgentReviewers",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentreviewers-zwce6"
+    },
+    {
+      "title": "rzolvr",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/rzolvr-s1ngh"
+    },
+    {
+      "title": "AgentTrust",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agenttrust-w8cqy"
+    },
+    {
+      "title": "Helix",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/helix-w71ta"
+    },
+    {
+      "title": "NerOS",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/neros-6ehd7"
+    },
+    {
+      "title": "TrustGate",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/trustgate-4etgm"
+    },
+    {
+      "title": "Parallax Wallet",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/parallax-wallet-3zfan"
+    },
+    {
+      "title": "DeFight Benchmark",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/defight-benchmark-mco7f"
+    },
+    {
+      "title": "Fundz",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/fundz-yka41"
+    },
+    {
+      "title": "gctl",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/gctl-6xgjh"
+    },
+    {
+      "title": "Scholar Swarm",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/scholar-swarm-4zkij"
+    },
+    {
+      "title": "Composia",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/composia-gvtp0"
+    },
+    {
+      "title": "ZeroMem",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/zeromem-k89ud"
+    },
+    {
+      "title": "SBO3L",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/sbo3l-nmnj8"
+    },
+    {
+      "title": "convexa",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/convexa-fts89"
+    },
+    {
+      "title": "Swati",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/swati-28v1t"
+    },
+    {
+      "title": "Nexora",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/nexora-sury6"
+    },
+    {
+      "title": "Nonce Sense",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/nonce-sense-r9yh5"
+    },
+    {
+      "title": "TheLastPrompt",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/thelastprompt-o40o3"
+    },
+    {
+      "title": "Bridge Sentinel",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/bridge-sentinel-29hhg"
+    },
+    {
+      "title": "Spore",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/spore-gf2vz"
+    },
+    {
+      "title": "QUORUM",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/quorum-bkhc0"
+    },
+    {
+      "title": "GhostPass",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ghostpass-4jqb0"
+    },
+    {
+      "title": "ChainPilot",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/chainpilot-ueabv"
+    },
+    {
+      "title": "Pantheon",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/pantheon-j0ibq"
+    },
+    {
+      "title": "CollabAI",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/collabai-r0t8c"
+    },
+    {
+      "title": "SciClaw x DAO",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/sciclaw-x-dao-igcz8"
+    },
+    {
+      "title": "DoorNo.402",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/doorno-402-25ymj"
+    },
+    {
+      "title": "uni-agent",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/uni-agent-x6foz"
+    },
+    {
+      "title": "Slopstock",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/slopstock-7zgd6"
+    },
+    {
+      "title": "Aegis AI",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/aegis-ai-uh1mn"
+    },
+    {
+      "title": "Mnemo",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/mnemo-7tk1p"
+    },
+    {
+      "title": "Bakely",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/bakely-gwggp"
+    },
+    {
+      "title": "0g-workflows",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/0g-workflows-a84bf"
+    },
+    {
+      "title": "Maxxit AI",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/maxxit-ai-ncd8j"
+    },
+    {
+      "title": "Aight",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/aight-p066f"
+    },
+    {
+      "title": "Rigel",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/rigel-4n49k"
+    },
+    {
+      "title": "Horoi Protocol",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/horoi-protocol-7x39z"
+    },
+    {
+      "title": "hacksim",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/hacksim-nyk7y"
+    },
+    {
+      "title": "Trove",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/trove-rsqbs"
+    },
+    {
+      "title": "IntraCloud",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/intracloud-pibw0"
+    },
+    {
+      "title": "Pawn Agent",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/pawn-agent-5zozu"
+    },
+    {
+      "title": "WishD",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/wishd-0syds"
+    },
+    {
+      "title": "MediMesh",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/medimesh-94qdq"
+    },
+    {
+      "title": "Agora",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agora-szr6b"
+    },
+    {
+      "title": "Polis",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/polis-vmg9e"
+    },
+    {
+      "title": "Lethe",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/lethe-j9ygy"
+    },
+    {
+      "title": "LuminaGrid",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/luminagrid-kmm9u"
+    },
+    {
+      "title": "AgentBook.exe",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentbook-exe-iqbta"
+    },
+    {
+      "title": "Prism",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/prism-cfxy5"
+    },
+    {
+      "title": "DGIT",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/dgit-yety0"
+    },
+    {
+      "title": "GenGuard",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/genguard-h82uq"
+    },
+    {
+      "title": "Disaster Response AI",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/disaster-response-ai-pdty6"
+    },
+    {
+      "title": "AetherSwarm",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/aetherswarm-f57d7"
+    },
+    {
+      "title": "0xAgentio",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/0xagentio-jvmqs"
+    },
+    {
+      "title": "Alps",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/alps-1yzq7"
+    },
+    {
+      "title": "Prism Hook",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/prism-hook-pxrz1"
+    },
+    {
+      "title": "KeeperKit",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/keeperkit-brvec"
+    },
+    {
+      "title": "Alpha402",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/alpha402-04vgq"
+    },
+    {
+      "title": "Nayym",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/nayym-wf04q"
+    },
+    {
+      "title": "town.eth",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/town-eth-hnv2x"
+    },
+    {
+      "title": "DeFacts AI",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/defacts-ai-ntdyu"
+    },
+    {
+      "title": "Tradewise Agentlab",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/tradewise-agentlab-hpg3y"
+    },
+    {
+      "title": "Hermes",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/hermes-fonos"
+    },
+    {
+      "title": "AI Auditor",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ai-auditor-fcvat"
+    },
+    {
+      "title": "Mnemo Agents",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/mnemo-agents-js7hy"
+    },
+    {
+      "title": "EarnYld",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/earnyld-oug2x"
+    },
+    {
+      "title": "Hive",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/hive-avq5j"
+    },
+    {
+      "title": "SwarmFi - Ai Agent",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/swarmfi-ai-agent-awtfm"
+    },
+    {
+      "title": "Ascertainty",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ascertainty-6w8ab"
+    },
+    {
+      "title": "Cymatic",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/cymatic-vedz7"
+    },
+    {
+      "title": "LoveClaw",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/loveclaw-gh3rw"
+    },
+    {
+      "title": "ACL",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/acl-6hwos"
+    },
+    {
+      "title": "DJayFi",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/djayfi-ieh1r"
+    },
+    {
+      "title": "DoloX",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/dolox-ioafz"
+    },
+    {
+      "title": "Skillname",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/skillname-32dra"
+    },
+    {
+      "title": "declareindependence",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/declareindependence-ph36w"
+    },
+    {
+      "title": "0G-Memory-Hooks",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/0g-memory-hooks-h0xdn"
+    },
+    {
+      "title": "AgentSlam",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentslam-znyyq"
+    },
+    {
+      "title": "AgentVault",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentvault-a6ih0"
+    },
+    {
+      "title": "Parley",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/parley-ey629"
+    },
+    {
+      "title": "UniswapSwarm",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/uniswapswarm-nqvt0"
+    },
+    {
+      "title": "Logrunner",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/logrunner-cppms"
+    },
+    {
+      "title": "Zuno",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/zuno-h09mv"
+    },
+    {
+      "title": "AgentPrisonerDillema",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentprisonerdillema-44j9u"
+    },
+    {
+      "title": "What NOT",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/what-not-jwt53"
+    },
+    {
+      "title": "Onchor.ai",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/onchor-ai-mkuyn"
+    },
+    {
+      "title": "KeeperHub Agent SDK",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/keeperhub-agent-sdk-msiws"
+    },
+    {
+      "title": "Provance",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/provance-t2o7f"
+    },
+    {
+      "title": "Scraperkast",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/scraperkast-fjjtq"
+    },
+    {
+      "title": "Shadowmesh",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/shadowmesh-wmddr"
+    },
+    {
+      "title": "Langchain KeeperHub",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/langchain-keeperhub-y6v6e"
+    },
+    {
+      "title": "portfolioguard",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/portfolioguard-c5erm"
+    },
+    {
+      "title": "whencheap",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/whencheap-n8jkp"
+    },
+    {
+      "title": "StrategyForge",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/strategyforge-5wt2h"
+    },
+    {
+      "title": "VeriGate",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/verigate-w9oh5"
+    },
+    {
+      "title": "Omen",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/omen-dcwd6"
+    },
+    {
+      "title": "AgentPassports.eth",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentpassports-eth-5r5dr"
+    },
+    {
+      "title": "LendPay",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/lendpay-b22j8"
+    },
+    {
+      "title": "ActionFeed",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/actionfeed-c2ax4"
+    },
+    {
+      "title": "Moai",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/moai-u3zc7"
+    },
+    {
+      "title": "Immunity",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/immunity-urob5"
+    },
+    {
+      "title": "Orcha-net",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/orcha-net-jcbiu"
+    },
+    {
+      "title": "Warashibe Protocol",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/warashibe-protocol-euann"
+    },
+    {
+      "title": "SYNAPSE",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/synapse-ccfti"
+    },
+    {
+      "title": "Swapper",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/swapper-o03ev"
+    },
+    {
+      "title": "AXL OpenTelemetry",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/axl-opentelemetry-7re2h"
+    },
+    {
+      "title": "Paradigm",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/paradigm-rsjym"
+    },
+    {
+      "title": "Phulax",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/phulax-v02ky"
+    },
+    {
+      "title": "Argus",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/argus-f514u"
+    },
+    {
+      "title": "Gr@diusWeb3",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/gr-diusweb3-2rc2o"
+    },
+    {
+      "title": "HIVEMIND",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/hivemind-ntg64"
+    },
+    {
+      "title": "AgentMeshx",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentmeshx-jq8hz"
+    },
+    {
+      "title": "ETHGlobal Skills",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ethglobal-skills-e3xff"
+    },
+    {
+      "title": "Hydra",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/hydra-9eh9m"
+    },
+    {
+      "title": "Vaultra",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/vaultra-12p0j"
+    },
+    {
+      "title": "CGAE",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/cgae-5zdyv"
+    },
+    {
+      "title": "ARKA",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/arka-8jpz6"
+    },
+    {
+      "title": "CounterAgents",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/counteragents-bnrf7"
+    },
+    {
+      "title": "Arbiter Capital",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/arbiter-capital-r8qpc"
+    },
+    {
+      "title": "ENS AgentGate",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ens-agentgate-m77ub"
+    },
+    {
+      "title": "eerful",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/eerful-6kg8f"
+    },
+    {
+      "title": "Krump Protocol",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/krump-protocol-y852t"
+    },
+    {
+      "title": "Aegis",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/aegis-achsm"
+    },
+    {
+      "title": "Common OS",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/common-os-ywv7j"
+    },
+    {
+      "title": "Agent-911",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agent-911-02vw5"
+    },
+    {
+      "title": "SWARM OS",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/swarm-os-knmfw"
+    },
+    {
+      "title": "KeeperHub-PluginHub",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/keeperhub-pluginhub-1ayc4"
+    },
+    {
+      "title": "Splitsafe",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/splitsafe-j05j3"
+    },
+    {
+      "title": "PayAgent",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/payagent-taoj2"
+    },
+    {
+      "title": "Reckon402",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/reckon402-y1gr3"
+    },
+    {
+      "title": "Cambrian",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/cambrian-aqw1w"
+    },
+    {
+      "title": "Wraith",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/wraith-6uvwk"
+    },
+    {
+      "title": "CodeGuardian iNFT",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/codeguardian-inft-0u905"
+    },
+    {
+      "title": "The Hedge Room",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/the-hedge-room-ikvkm"
+    },
+    {
+      "title": "Voltaire Kit",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/voltaire-kit-m8mq7"
+    },
+    {
+      "title": "0MCP",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/0mcp-o1ds8"
+    },
+    {
+      "title": "KinSvarmo",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/kinsvarmo-h18nb"
+    },
+    {
+      "title": "RiskClaw",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/riskclaw-ip3a9"
+    },
+    {
+      "title": "Gleipnir",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/gleipnir-30ne0"
+    },
+    {
+      "title": "State Capsule",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/state-capsule-cqmcn"
+    },
+    {
+      "title": "Crucible",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/crucible-tdi61"
+    },
+    {
+      "title": "Starling",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/starling-kpgtq"
+    },
+    {
+      "title": "WalletYeet",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/walletyeet-zo3uc"
+    },
+    {
+      "title": "NexPay",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/nexpay-e18bv"
+    },
+    {
+      "title": "Zero Agents",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/zero-agents-ucec1"
+    },
+    {
+      "title": "Brew",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/brew-wx8wb"
+    },
+    {
+      "title": "Agentorium",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentorium-siufk"
+    },
+    {
+      "title": "Adversa",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/adversa-3yuhu"
+    },
+    {
+      "title": "Solace",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/solace-5ecda"
+    },
+    {
+      "title": "OpenDeal",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/opendeal-wg97w"
+    },
+    {
+      "title": "Nexis",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/nexis-kimuu"
+    },
+    {
+      "title": "VerifyAgent.eth",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/verifyagent-eth-hrv29"
+    },
+    {
+      "title": "Cerberus Protocol",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/cerberus-protocol-vmtcd"
+    },
+    {
+      "title": "Aegis Protocol",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/aegis-protocol-j9sf2"
+    },
+    {
+      "title": "Mendel",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/mendel-319b2"
+    },
+    {
+      "title": "Aegiss Protocol",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/aegiss-protocol-cym2j"
+    },
+    {
+      "title": "Team Hydra",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/team-hydra-bqenq"
+    },
+    {
+      "title": "Arbiter",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/arbiter-nn7oo"
+    },
+    {
+      "title": "LPlens",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/lplens-7sijq"
+    },
+    {
+      "title": "Receipt",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/receipt-hymjx"
+    },
+    {
+      "title": "Signal Count",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/signal-count-nyfjh"
+    },
+    {
+      "title": "HiveMesh",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/hivemesh-jcn2d"
+    },
+    {
+      "title": "Open Agents Toolkit",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/open-agents-toolkit-0mcnp"
+    },
+    {
+      "title": "SuperReferrals",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/superreferrals-rki1s"
+    },
+    {
+      "title": "PeakSaaS",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/peaksaas-6tztw"
+    },
+    {
+      "title": "Srivate",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/srivate-8qs82"
+    },
+    {
+      "title": "MeritScore",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/meritscore-14i2e"
+    },
+    {
+      "title": "EvoYield",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/evoyield-s9b61"
+    },
+    {
+      "title": "iKAIZEN",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/ikaizen-3wdr6"
+    },
+    {
+      "title": "ARYA",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/arya-802qn"
+    },
+    {
+      "title": "clawMarket",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/clawmarket-mvbjx"
+    },
+    {
+      "title": "Loupe",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/loupe-11xn7"
+    },
+    {
+      "title": "CraftLead",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/craftlead-19qsc"
+    },
+    {
+      "title": "Elf",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/elf-qu1js"
+    },
+    {
+      "title": "Arguing Agents?",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/arguing-agents-h7znt"
+    },
+    {
+      "title": "Sonar",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/sonar-v5b4g"
+    },
+    {
+      "title": "Neko Vives",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/neko-vives-ba1na"
+    },
+    {
+      "title": "AgentRemit",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/agentremit-4po2g"
+    },
+    {
+      "title": "0G-CLAW",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/0g-claw-ipzaq"
+    },
+    {
+      "title": "Darkpool Mesh",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/darkpool-mesh-wnx2a"
+    },
+    {
+      "title": "MiroShark 🦈",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/miroshark-shark-ink9g"
+    },
+    {
+      "title": "EyeChain",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/eyechain-th28q"
+    },
+    {
+      "title": "Vela",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/vela-4fwvn"
+    },
+    {
+      "title": "HAWKEYE",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/hawkeye-05prd"
+    },
+    {
+      "title": "loom",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/loom-e5qyg"
+    },
+    {
+      "title": "Protocol Guardian",
+      "event": "Open Agents",
+      "url": "https://ethglobal.com/showcase/protocol-guardian-hcjh0"
+    }
+  ]
+}
