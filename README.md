@@ -6,13 +6,15 @@ npx skills add ethglobal-skills/repo
 
 One command gives your coding agents access to:
 
-- 17,180 hackathon projects from the past 6 years
+- 17,643 hackathon projects from the past 6 years
 - sponsor docs + bounties for upcoming hacks
 - all Finalist + bounty winners
 
 Make sure to explicitly say `use ethglobal-skills` at the end of your prompts.
 
 **⭐️ If you found this useful, please star this repo! ⭐️**
+
+https://github.com/user-attachments/assets/6253ae42-d6de-4800-8ff3-7af8ee4731a7
 
 ### Claude Code
 
