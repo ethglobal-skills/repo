@@ -10,7 +10,9 @@ One command gives your coding agents access to:
 - sponsor docs + bounties for upcoming hacks
 - all Finalist + bounty winners
 
-Make sure to explicitly say `use ethglobal-skills` at the end of your prompts.
+If using Claude Code, use the plugin below or include `use ethglobal-skills` in the prompt.
+
+For example queries and full API docs, check out [`skills/ethglobal-skills/SKILL.md`](skills/ethglobal-skills/SKILL.md). Rate limiting is done via x402. If you reach over 10 requests / minute, it'll be $0.05 USDC on Base mainnet. Install AgentCash and transfer a small amount to continue!
 
 **⭐️ If you found this useful, please star this repo! ⭐️**
 
@@ -24,8 +26,6 @@ https://github.com/user-attachments/assets/6253ae42-d6de-4800-8ff3-7af8ee4731a7
 ```
 
 One-time setup. The skill is then available globally as `/ethglobal:ethglobal-skills`.
-
-For example queries and full API docs, check out [`skills/ethglobal-skills/SKILL.md`](skills/ethglobal-skills/SKILL.md). Rate limiting is done via x402. If you reach over 10 requests / minute, it'll be $0.05 USDC on Base mainnet. Install AgentCash and transfer a small amount to continue!
 
 ### To Do
 
