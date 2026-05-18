@@ -4,7 +4,7 @@ import { HTTPFacilitatorClient } from '@x402/core/server'
 import { createFacilitatorConfig } from '@coinbase/x402'
 import { NextRequest, NextResponse } from 'next/server'
 
-const SKILL_VERSION = '1.0.0'
+const SKILL_VERSION = '1.1.0'
 const REQUESTS_PER_MINUTE = 10
 
 // In-memory rate limit store — works for local testing only.

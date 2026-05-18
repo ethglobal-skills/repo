@@ -14,6 +14,15 @@ Make sure to explicitly say `use ethglobal-skills` at the end of your prompts.
 
 **⭐️ If you found this useful, please star this repo! ⭐️**
 
+### Claude Code
+
+```
+/plugin marketplace add ethglobal-skills/repo
+/plugin install ethglobal@ethglobal-skills
+```
+
+One-time setup. The skill is then available globally as `/ethglobal:ethglobal-skills`.
+
 For example queries and full API docs, check out [`skills/ethglobal-skills/SKILL.md`](skills/ethglobal-skills/SKILL.md). Rate limiting is done via x402. If you reach over 10 requests / minute, it'll be $0.05 USDC on Base mainnet. Install AgentCash and transfer a small amount to continue!
 
 ### To Do

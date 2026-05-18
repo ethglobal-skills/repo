@@ -1,0 +1,17 @@
+{
+  "name": "ethglobal-skills",
+  "description": "ETHGlobal hackathon search skills for Claude Code — search 17,000+ projects, sponsor bounties, and prize winners",
+  "owner": {
+    "name": "ETHGlobal Skills",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "ethglobal",
+      "source": "./skills/ethglobal-skills",
+      "description": "Search 17,000+ ETHGlobal hackathon projects, sponsor bounties, and prize winners across all events",
+      "keywords": ["ethglobal", "hackathon", "blockchain", "web3", "ethereum", "bounties"],
+      "category": "developer-tools"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ethglobal",
+  "version": "1.1.0",
+  "description": "Search 17,000+ ETHGlobal hackathon projects, sponsor bounties, and prize winners across all events from ETHWaterloo to present",
+  "author": {
+    "name": "ETHGlobal Skills"
+  },
+  "homepage": "https://github.com/ethglobal-skills/repo",
+  "repository": "https://github.com/ethglobal-skills/repo",
+  "license": "MIT",
+  "keywords": ["ethglobal", "hackathon", "blockchain", "web3", "ethereum", "bounties"],
+  "skills": "./"
+}
